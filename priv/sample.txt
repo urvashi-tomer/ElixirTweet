@@ -1,0 +1,10 @@
+01 Hi, this tweet is a sample for an application.
+02 Hello, this tweet is a sample for an application.
+03 A long string, needs to be longer than 140 characters. This is to test that our filter function works. If it does, this string will not appear. If it fails, we'll see this string.
+04 This tweet is a sample for an application.
+05 This tweet is a sample for an application, which I'm currently learning.
+06 Test tweet
+07 Testing tweet
+08 Sample tweet
+09 Tweeting 
+10 Testing out a tweet
